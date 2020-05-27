@@ -8,10 +8,23 @@ categories:
     labels:
       - feature
       - enhancement
+      - feat
+      - style
+      - docs
+      - perf
   - title: 🐛 Bug Fixes
     labels:
       - fix
       - bugfix
       - bug
+      - hotfix
   - title: 👻 Maintenance
-    label: chore
+    labels:
+      - chore
+      - revert
+      - test
+      - build
+      - refactor
+      - ci
+
+
